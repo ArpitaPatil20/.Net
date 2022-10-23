@@ -1,0 +1,12 @@
+D:\C#\Arpita\Student_Information_System\bin\Debug\Student_Information_System.exe.config
+D:\C#\Arpita\Student_Information_System\bin\Debug\Student_Information_System.exe
+D:\C#\Arpita\Student_Information_System\bin\Debug\Student_Information_System.pdb
+D:\C#\Arpita\Student_Information_System\obj\Debug\Student_Information_System.csproj.AssemblyReference.cache
+D:\C#\Arpita\Student_Information_System\obj\Debug\Student_Information_System.frm_Add_New_Student.resources
+D:\C#\Arpita\Student_Information_System\obj\Debug\Student_Information_System.frm_View_Student_List.resources
+D:\C#\Arpita\Student_Information_System\obj\Debug\Student_Information_System.frm_Login_Form.resources
+D:\C#\Arpita\Student_Information_System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\C#\Arpita\Student_Information_System\obj\Debug\Student_Information_System.csproj.GenerateResource.cache
+D:\C#\Arpita\Student_Information_System\obj\Debug\Student_Information_System.csproj.CoreCompileInputs.cache
+D:\C#\Arpita\Student_Information_System\obj\Debug\Student_Information_System.exe
+D:\C#\Arpita\Student_Information_System\obj\Debug\Student_Information_System.pdb
